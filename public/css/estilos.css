@@ -1,5 +1,6 @@
-
-
+body{
+	margin-top:20px;
+}
 .mi-video{
 	margin-top: 10px;
 border-top:1000px;
@@ -7,3 +8,11 @@ border-top:1000px;
 .mi-video video{
 	    width: 370px;
 }
+.border-panel{
+	border:6px solid seagreen;
+	height:1650px;
+	margin-top:20px;
+background-color:black;
+
+}
+
